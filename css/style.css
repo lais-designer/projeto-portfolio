@@ -8,7 +8,7 @@ html{ /* comportamento de rolar site*/
 	/*smooth: suave*/
 }
 body{
-	background-color: #FA8072; /*pode ser preto, na aula fi preto*/
+	background-color: #FA8072; /*pode ser preto, na aula foi preto*/
 	color: #fff;
 }
 a{ /* o "a" é o link, entao mudou a cor do link*/
@@ -175,7 +175,7 @@ input, textarea{
 .forms-group{
 	padding: 5px 0;
 }
-/* css resonsivo*/
+/* css responsivo*/
 /* quando colocar np f12, responsivo e diminuir a tela para menos de 980 acaba mudando de cor */
 @media screen and (max-width: 980px){
 	body{
